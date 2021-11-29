@@ -792,7 +792,7 @@ h3 {
 .image_fond{
     width: 100%;
     height: auto;
-    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.8)), url(/img/la-chouette-agence-banniere.webp);
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.8)), url(img/la-chouette-agence-banniere.webp);
 }
 
 .portfolio-thumb {
